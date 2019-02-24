@@ -1,5 +1,5 @@
 # Links to sites
-- [Open Data Shop](./geoTools/geoTools.html)
+- [Open Data Shop](./geoTools/geotools.html)
 - [LocateMe](./locateme/locateme19.html)
 - [GpsPosition](./locateme/gpsposition.html)
 
