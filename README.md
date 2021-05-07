@@ -1,9 +1,8 @@
-# Links to sites
-- [Open Data Shop](./geoTangle/geotangle.html)
-- [LocateMe](./locateme/locateme19.html)
-- [GpsPosition](./locateme/gpsposition.html)
+# Verkaufs-Dokumentation Irchelstrasse 3, 8542 Wiesendangen
+- [Print-Version 21.6MB](./geoTangle/Irchelstrasse300.pdf)
+- [Screet-Version 6.6MB](./geoTangle/Irchelstrasse75plus.pdf)
 
 
 
-
-[editor on GitHub](https://github.com/szinggeler/szinggeler.github.io/edit/master/README.md)
+# Link to site
+- [Open Geodata ZH (geoTangle)](./geoTangle/geotangle.html)
